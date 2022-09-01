@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndikaYudantara
-- 👀 I’m interested in machine specially in computer vision, and also love to make and play games
-- 🌱 I’m currently learning how to make a game using Unity Game Engine
+- 👀 I take my major studies in machine learning specially in computer vision
+- 🌱 I love to play games, so i tried to make one using Unity Game Engine
 - 💞️ I’m looking to collaborate with anyone who have same interest
 - 📫 How to reach me : 
 - Email : andikayudantara98@gmail.com
