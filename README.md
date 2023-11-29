@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndikaYudantara
-- 👀 I take my major studies in computer science, especially in App Developer
+- 👀 I take my major studies in computer science, especially in Machine Learning
 - 🌱 I love to play games, so I tried to make one using the Unity Game Engine
 - 💞️ I’m looking to collaborate with anyone who has the same interest
 - 📫 How to reach me : 
